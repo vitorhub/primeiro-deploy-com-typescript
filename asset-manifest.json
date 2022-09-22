@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/primeiro-deploy-com-typescript/static/js/main.79a04876.js",
+    "index.html": "/primeiro-deploy-com-typescript/index.html",
+    "main.79a04876.js.map": "/primeiro-deploy-com-typescript/static/js/main.79a04876.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.79a04876.js"
+  ]
+}
